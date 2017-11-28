@@ -6,7 +6,6 @@ from numpy import *
 import random
 import matplotlib.pyplot as plt
 import numpy as np
-from partitioner import *
 import numpy as np
 
 
